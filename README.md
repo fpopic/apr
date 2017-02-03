@@ -8,6 +8,6 @@ Lab2 Java - GoldenRatio, HookeJeeves, Simplex
 
 Lab3 Java - GradientDescent, NewtonRaphson, Box, Transformaions
 
-Lab4 Java - GeneticAlgorithm (minimisation)
+Lab4 Java - GeneticAlgorithm (minimization)
 
 Lab5 Java - Trapese & RungeKutta integrations
